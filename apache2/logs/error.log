@@ -1,6 +1,6 @@
-[Mon Aug 26 11:27:29.713018 2019] [mpm_winnt:notice] [pid 9816:tid 848] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Mon Aug 26 11:27:29.713018 2019] [mpm_winnt:notice] [pid 9816:tid 848] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Mon Aug 26 11:27:29.713018 2019] [core:notice] [pid 9816:tid 848] AH00094: Command line: 'D:\\KEY/apache2/bin/httpd_usbwv8.exe -d D:/KEY/apache2'
-[Mon Aug 26 11:27:29.716974 2019] [mpm_winnt:notice] [pid 9816:tid 848] AH00418: Parent: Created child process 6196
-[Mon Aug 26 11:27:30.368165 2019] [mpm_winnt:notice] [pid 6196:tid 856] AH00354: Child: Starting 64 worker threads.
-[Mon Aug 26 11:28:55.440833 2019] [:error] [pid 6196:tid 1360] [client ::1:51578] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in D:\\KEY\\root\\index.php on line 47
+[Mon Sep 16 14:49:03.581825 2019] [mpm_winnt:notice] [pid 15600:tid 824] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Mon Sep 16 14:49:03.582821 2019] [mpm_winnt:notice] [pid 15600:tid 824] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Mon Sep 16 14:49:03.582821 2019] [core:notice] [pid 15600:tid 824] AH00094: Command line: 'D:\\GIT LAB\\web-MUNIJEM/apache2/bin/httpd_usbwv8.exe -d D:/GIT LAB/web-MUNIJEM/apache2'
+[Mon Sep 16 14:49:03.592793 2019] [mpm_winnt:notice] [pid 15600:tid 824] AH00418: Parent: Created child process 16908
+[Mon Sep 16 14:49:04.281454 2019] [mpm_winnt:notice] [pid 16908:tid 896] AH00354: Child: Starting 64 worker threads.
+[Mon Sep 16 14:49:08.342575 2019] [:error] [pid 16908:tid 720] [client ::1:54531] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in D:\\GIT LAB\\web-MUNIJEM\\root\\index.php on line 47
